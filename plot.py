@@ -108,6 +108,8 @@ with tab3:
         "plot/6.png",
         "plot/7.png",
         "plot/8.png",
+        "plot/9.png",
+        "plot/10.png",
     ]
 
     for idx, img in enumerate(images):

@@ -38,8 +38,8 @@ Evaluated the impact of PCA on model performance.
 
 Final Performance:
 
-* RMSE: **19.28**
-* R² Score: **0.812**
+* RMSE: **18.04**
+* R² Score: **0.834**
 
 ### `plot.ipynb`
 
