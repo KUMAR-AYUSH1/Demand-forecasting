@@ -103,7 +103,7 @@ The final XGBoost model achieved:
 
 | Metric   | Score |
 | -------- | ----- |
-| RMSE     | 19.28 |
-| R² Score | 0.812 |
+| RMSE     | 18.04 |
+| R² Score | 0.834 |
 
 The model provides accurate forecasts for both **Demand** and **Units Sold**, helping with inventory planning and sales analysis.
